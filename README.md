@@ -2,8 +2,7 @@
 Полный CRUD интерфейс для каждого справочника, фильтры по столбцам, сортировка по столбцам, пагинация.
 
 Бэкенд http://surrogat.protection.com.ua/site/login
-admin
-5124315
+(пароль логин по запросу)
 
 Фронтенд 
 http://surrogat.protection.com.ua/
