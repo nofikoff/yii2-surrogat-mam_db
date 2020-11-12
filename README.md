@@ -3,12 +3,12 @@
 
 Бэкенд http://surrogat.protection.com.ua/site/login
 admin
-*********
+5124315
 
 Фронтенд 
 http://surrogat.protection.com.ua/
 
 Исходники 
 https://github.com/nofikoff/yii2-surrogat-mam_db 
-Дамп БД в корне проекта.
+Дамп БД в корне проекта (позже сделаю в виде миграции)
 Yii2 аналог Laravel но проще, быстрее и имеет ряд механизмов для автогенерации MVC модулей на базе структуры и связей в MySQL
